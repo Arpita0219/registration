@@ -1,2 +1,2 @@
 # registration
-using html css php javascript
+using html css php javascript jquery
